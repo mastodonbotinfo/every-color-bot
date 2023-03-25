@@ -21,7 +21,7 @@ import pytz
 
 API_BASE_URL = 'https://mastodon.bot/'
 VISIBILITY = 'public' # post visibility
-WINDOW = 3 # number of hourly posts to schedule
+WINDOW = 14 # number of hourly posts to schedule
 
 # functions to permutate the 24 bit color space
 
