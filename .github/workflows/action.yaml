@@ -1,7 +1,7 @@
 name: Every color bot
 on:
   schedule:
-    - cron: "58 04,16 * * *"
+    - cron: "14 06,18 * * *"
 jobs:
   build:
     runs-on: ubuntu-latest

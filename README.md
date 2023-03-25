@@ -1,7 +1,5 @@
 # Every Color Bot
 
-This bot posts all 24-bit colours 0x000000 through 0xffffff to Mastodon, 1 per hour, all 16.8M of them, potentially for 1914 years starting 2023.
-
 This bot posts all 16.8 million 24-bit colours to Mastodon, 1 per hour, potentially for 1914 years starting 2023.
 
 Author: https://mastodon.social/@dig

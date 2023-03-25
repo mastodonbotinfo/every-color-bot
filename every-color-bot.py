@@ -21,9 +21,9 @@ import pytz
 
 API_BASE_URL = 'https://mastodon.bot/'
 VISIBILITY = 'public' # post visibility
-WINDOW = 14 # number of hourly posts to schedule
+WINDOW = 26 # number of hourly posts to schedule
 
-# functions to permutate the 24 bit color space
+# functions to permute the 24 bit color space
 
 def generate_permutation(space, seed):
     rng = np.random.default_rng(seed) 
